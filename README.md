@@ -1,10 +1,10 @@
 ### hey, i'm homaidan 👋
 
-<a href="https://github.com/HomaidanSharabati"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=2EA043&vCenter=true&width=560&lines=software+engineering+student+%40+IZU%2C+istanbul;fullstack+%26+game+developer;laravel+backends%2C+unity+%26+godot+games;teaching+ai+agents+to+ask+before+they+act" alt="software engineering student, fullstack and game developer" /></a>
+<a href="https://github.com/HomaidanSharabati"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=2EA043&vCenter=true&width=560&lines=fullstack+%26+game+developer+%C2%B7+istanbul;web+platforms%2C+backends+and+games;laravel+%C2%B7+unity+%C2%B7+godot;teaching+ai+agents+to+ask+before+they+act" alt="fullstack and game developer based in istanbul" /></a>
 
-i study software engineering at istanbul sabahattin zaim university. i like hard logic problems and systems that don't fall over, whether that's a laravel backend or a game loop.
+i build web platforms and games end to end, from the database schema to the last ui detail. i like hard logic problems and systems that don't fall over, whether that's a laravel backend or a game loop.
 
-💼 **right now:** technical volunteer (web developer) at fodern, working with php, laravel and sql.
+💼 **what i build:** web platforms and backends (php, laravel, sql), games (unity, godot) and automation tools.
 
 🔨 **things i've built:**
 
@@ -30,6 +30,8 @@ i study software engineering at istanbul sabahattin zaim university. i like hard
   <img src="https://streak-stats.demolab.com?user=HomaidanSharabati&theme=gotham&hide_border=true&border_radius=10" alt="contribution streak" />
 </p>
 
-📫 **want to build something together?** reach me on [linkedin](https://www.linkedin.com/in/homaidan-sharabati-71492a378/), or play [guard suffering on itch.io](https://homaidan-sharabati.itch.io/guard-suffering) :)
+🎓 also studying software engineering at istanbul sabahattin zaim university.
+
+📫 **got a project in mind?** reach me on [linkedin](https://www.linkedin.com/in/homaidan-sharabati-71492a378/), or play [guard suffering on itch.io](https://homaidan-sharabati.itch.io/guard-suffering) :)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=HomaidanSharabati&label=profile%20views&color=2ea043&style=flat-square" alt="profile views" /></p>
