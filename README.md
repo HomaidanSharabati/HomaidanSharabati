@@ -30,4 +30,6 @@ i study software engineering at istanbul sabahattin zaim university. i like hard
   <img src="https://streak-stats.demolab.com?user=HomaidanSharabati&theme=gotham&hide_border=true&border_radius=10" alt="contribution streak" />
 </p>
 
+📫 **want to build something together?** reach me on [linkedin](https://www.linkedin.com/in/homaidan-sharabati-71492a378/), or play [guard suffering on itch.io](https://homaidan-sharabati.itch.io/guard-suffering) :)
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=HomaidanSharabati&label=profile%20views&color=2ea043&style=flat-square" alt="profile views" /></p>
